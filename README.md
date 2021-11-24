@@ -1,6 +1,7 @@
 # Cocktails DB
 
 ## [Live instance](https://jam-cocktails-db.netlify.app/)
+![image](https://i.imgur.com/de1qyAO.png)
 
 ### Features:
 
